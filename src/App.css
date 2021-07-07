@@ -3,7 +3,11 @@
 }
 
 .Nav-link {
-  padding: 2rem;
+  padding: 16px;
+  text-align: center;
+
+  
+
 }
 
 .nav-item {
